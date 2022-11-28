@@ -19,4 +19,4 @@ I take an active role in multiple Python-related communities, helping people, an
 I am actively developing either as a maintainer or contributor to F/OSS projects.
 
 ## What am I working on right now?
-These days, I'm trying to close the issues in the multiple projects which are unimport, unexport and I'm developing some new cool projects like o-dbm ( coming soon ), defineif ( under development ).
+These days, I'm trying to close the issues in the multiple projects which are unimport, unexport and I'm developing some new cool projects like pydbm ( alpha ), defineif ( just for fun ).
