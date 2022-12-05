@@ -26,8 +26,8 @@ Here are my projects that you can use.
 
 - [Unimport](https://github.com/hakancelikdev/unimport) - :rocket: A linter, formatter for finding and removing unused import statements.
 - [Unexport](https://github.com/hakancelikdev/unexport) - :eight_spoked_asterisk: Unexport is a linter that tries to keep the __all __ in your Python modules always up to date.
-- [Pydbm](https://github.com/hakancelikdev/pydbm) - Pydbm is a more pythonic way to use dbm.
-- [Defineif](https://github.com/hakancelikdev/defineif) - If the condition is true, define the method. [ Just for fun ] 
+- [Pydbm](https://github.com/hakancelikdev/pydbm) - :balloon: Pydbm is a more pythonic way to use dbm.
+- [Defineif](https://github.com/hakancelikdev/defineif) - :trollface: If the condition is true, define the method. [ Just for fun ]
 - [Metaclasses](https://github.com/hakancelikdev/metaclasses) - Metaclasses in Python [ Documentation ]
 - [python-package](https://github.com/hakancelikdev/python-package) - :package: Python package starter template 
 - [kong-plugin-response-transformer-extra](https://github.com/hakancelikdev/kong-plugin-response-transformer-extra) - :shield: Kong plugin response transformer extra;  Transformations can be restricted to responses with specific status codes using various config.*.if_status configuration parameters. 
