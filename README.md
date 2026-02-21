@@ -45,17 +45,6 @@ Topics: Metaclasses, Git, Python, Django, OpenCV, CPython, JavaScript, Security,
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakancelikdev&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancelikdev&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contact
 
 Feel free to reach out with questions or just to say hi — [Send email](https://www.hakancelik.dev/) or connect on [LinkedIn](https://www.linkedin.com/in/hakancelikdev/).
