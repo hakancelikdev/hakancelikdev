@@ -47,7 +47,7 @@ Topics: Metaclasses, Git, Python, Django, OpenCV, CPython, JavaScript, Security,
 
 ## 📫 Contact
 
-Feel free to reach out with questions or just to say hi — [Send email](https://www.hakancelik.dev/) or connect on [LinkedIn](https://www.linkedin.com/in/hakancelikdev/).
+Feel free to reach out with questions or just to say hi — [Send email](hakancelikdev@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/hakancelikdev/).
 
 <div align="center">
 
